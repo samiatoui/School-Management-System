@@ -5,4 +5,4 @@ to determine if the school is profitable or not.
 
 The program puts in practice Aggregation, inheritance, arraylists and classes. 
 
-This program served as a referesher for base concepts after not having coded for a short period of time. 
+This program served as a refresher for base concepts after not having coded for a short period of time. 
